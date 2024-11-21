@@ -12,34 +12,18 @@ const Footer = () => {
                   <ion-icon name="bag"></ion-icon>
                   <h1>Multimart</h1>
               </div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+              <p>Multimart est votre destination de confiance pour des produits de qualité, soigneusement sélectionnés pour répondre à vos besoins. Notre mission est de rendre vos achats en ligne simples, abordables et sans stress. Nous croyons en des produits qui allient qualité et accessibilité, avec un service client attentif à vos attentes.</p>
             </Col>
             <Col md={3} sm={5} className='box'>
-              <h2>About Us</h2>
-              <ul>
-                <li>Careers</li>
-                <li>Our Stores</li>
-                <li>Our Cares</li>
-                <li>Terms & Conditions</li>
-                <li>Privacy Policy</li>
-              </ul>
-            </Col>
-            <Col md={3} sm={5} className='box'>
-              <h2>Customer Care</h2>
-              <ul>
-                <li>Help Center </li>
-                <li>How to Buy </li>
-                <li>Track Your Order </li>
-                <li>Corporate & Bulk Purchasing </li>
-                <li>Returns & Refunds </li>
-              </ul>
+            <h2>Copyrights</h2>
+            <p>© 2024 Multimart. All rights reserved.</p>
             </Col>
             <Col md={3} sm={5} className='box'>
               <h2>Contact Us</h2>
               <ul>
-                <li>70 Washington Square South, New York, NY 10012, United States </li>
-                <li>Email: uilib.help@gmail.com</li>
-                <li>Phone: +1 1123 456 780</li>
+                <li>201 Avenue des FAR, Quartier Centre Ville, Casablanca, Maroc</li>
+                <li>Email: business@gmail.com</li>
+                <li>Phone: 0787678909</li>
               </ul>
             </Col>
           </Row>

@@ -47,6 +47,7 @@ const ProductDetails = ({ selectedProduct }) => {
               placeholder="Qty"
               value={quantity}
               onChange={handleQuantityChange}
+              min="1"
             />
             <button
               aria-label="Add"

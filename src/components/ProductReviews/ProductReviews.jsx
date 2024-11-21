@@ -27,7 +27,7 @@ const ProductReviews = ({ selectedProduct }) => {
           <div className="rates">
             {selectedProduct?.reviews.map((rate) => (
               <div className="rate-comment" key={rate.rating}>
-                <span>Jhon Doe</span>
+                <span>Abdelghafour Kissai</span>
                 <span>{rate.rating} (rating)</span>
                 <p>{rate.text}</p>
               </div>
